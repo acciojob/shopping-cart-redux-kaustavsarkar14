@@ -1,0 +1,11 @@
+export const ADD_TO_ALL = "ADD_TO_ALL"
+export const REMOVE_FROM_ALL = "REMOVE_FROM_ALL"
+
+export const ADD_TO_CART = "ADD_TO_CART"
+export const INCREASE_QTY = "INCREASE_QTY"
+export const DECREASE_QTY = "DECREASE_QTY"
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART"
+
+export const ADD_TO_WISHLIST = "ADD_TO_WISHLIST"
+export const REMOVE_FROM_WISHLIST = "REMOVE_FROM_WISHLIST"
+
